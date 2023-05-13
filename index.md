@@ -6,3 +6,6 @@ function test() {
   console.log("nothing but github");
 }
 ```
+- [ ] complete project
+- [ ] Prepare presentation
+- [ ] Final reherssal
